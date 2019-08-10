@@ -1,0 +1,103 @@
+k =
+
+     1
+
+Elapsed time is 7.203882 seconds.
+
+N =
+
+        3966
+
+
+Nerrs =
+
+   149
+
+
+acc =
+
+    0.9624
+
+
+k =
+
+     3
+
+Elapsed time is 7.229930 seconds.
+
+N =
+
+        3966
+
+
+Nerrs =
+
+   143
+
+
+acc =
+
+    0.9639
+
+
+k =
+
+     5
+
+Elapsed time is 7.213365 seconds.
+
+N =
+
+        3966
+
+
+Nerrs =
+
+   158
+
+
+acc =
+
+    0.9602
+
+
+k =
+
+    10
+
+Elapsed time is 7.198029 seconds.
+
+N =
+
+        3966
+
+
+Nerrs =
+
+   161
+
+
+acc =
+
+    0.9594
+
+
+k =
+
+    20
+
+Elapsed time is 7.197253 seconds.
+
+N =
+
+        3966
+
+
+Nerrs =
+
+   178
+
+
+acc =
+
+    0.9551
